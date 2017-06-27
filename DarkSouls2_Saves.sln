@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DarkSouls2_Saves", "DarkSouls2_Saves\DarkSouls2_Saves.csproj", "{9B354437-849E-4218-88DE-8E932AF8ED67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlobalHotkeys", "GlobalHotkeys\GlobalHotkeys.csproj", "{A3071E6A-A8F1-4367-9554-A76ACA46C814}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleNotifications", "MyNotifications\SimpleNotifications.csproj", "{3E49DA22-0796-4C5F-891B-9787E093B6D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleSerialization", "..\..\OneDrive\Education and Work\Archiwum\Studia IV Semestr\Informatyka\Practice\DeepSerialization\SimpleSerialization\SimpleSerialization.csproj", "{DB5AD46C-158E-4072-B1C1-4D483F830B78}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SaveBackupToolSetup", "SaveBackupToolSetup\SaveBackupToolSetup.vdproj", "{A922859F-5895-430E-ADCB-7EE10F9A7EDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B354437-849E-4218-88DE-8E932AF8ED67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B354437-849E-4218-88DE-8E932AF8ED67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B354437-849E-4218-88DE-8E932AF8ED67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B354437-849E-4218-88DE-8E932AF8ED67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3071E6A-A8F1-4367-9554-A76ACA46C814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3071E6A-A8F1-4367-9554-A76ACA46C814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3071E6A-A8F1-4367-9554-A76ACA46C814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3071E6A-A8F1-4367-9554-A76ACA46C814}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E49DA22-0796-4C5F-891B-9787E093B6D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E49DA22-0796-4C5F-891B-9787E093B6D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E49DA22-0796-4C5F-891B-9787E093B6D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E49DA22-0796-4C5F-891B-9787E093B6D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB5AD46C-158E-4072-B1C1-4D483F830B78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB5AD46C-158E-4072-B1C1-4D483F830B78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB5AD46C-158E-4072-B1C1-4D483F830B78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB5AD46C-158E-4072-B1C1-4D483F830B78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A922859F-5895-430E-ADCB-7EE10F9A7EDB}.Debug|Any CPU.ActiveCfg = Debug
+		{A922859F-5895-430E-ADCB-7EE10F9A7EDB}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
